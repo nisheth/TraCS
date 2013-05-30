@@ -38,7 +38,8 @@ PATH=$PATH:/path/to/vcftools_0.1.9
 
 CONTACT INFORMATION
 ----------------------
-Phone:  
-Email:
-Website:
+Contact:  Nihar Sheth
+Phone:  (804) 827-0951
+Email:  nsheth@vcu.edu
+Website:  https://github.com/nisheth/TraCS
 
