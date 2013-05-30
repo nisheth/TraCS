@@ -30,7 +30,7 @@ OUTPUT FILES:
 INSTALLATION
 -----------------
 
-TraCS requires Perl v5.8.8, UNIX command line interface, VCFtools v0.1.9, and ANNOVAR v2012-03-08.
+TraCS requires Perl v5.8.8 or higher, UNIX command line interface, VCFtools v0.1.9, and ANNOVAR v2012-03-08.
 Please include in your bash profile the paths to Perl and VCFtools. For example:
 
 PATH=$PATH:/path/to/vcftools_0.1.9
